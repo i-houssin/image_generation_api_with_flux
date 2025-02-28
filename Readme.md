@@ -1,6 +1,7 @@
 # 🚀 Flux Image Generation API
 
-![Generated Image](/teamspace/studios/this_studio/output-2025-02-28 17:19:40.370827.png)
+💡 *Inspired by a retro car parked on a nostalgic Tokyo street on a foggy snowy night…* 🌃❄️🚗
+![output-2025-02-28 17_13_25 474915](https://github.com/user-attachments/assets/0b4e1f8a-6c5f-4255-9bb1-fbe572c0e2f1)
 
 ## 🌟 Overview
 Deploy an image generation API with Flux and LitServe. Transform text prompts into stunning AI-generated images effortlessly! 🎨✨
@@ -42,6 +43,4 @@ Enhance performance using **batching**, **multi-GPU processing**, and more **Lit
 ## 🎯 Conclusion
 This project provides a streamlined method for deploying a **powerful, scalable image-generation API** using Flux and LitServe. With the right optimizations, it can be **production-ready** for any AI-driven application. 🚀💡
 
----
-💡 *Inspired by a retro car parked on a nostalgic Tokyo street on a foggy snowy night…* 🌃❄️🚗
 
